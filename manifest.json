@@ -5,7 +5,7 @@
         "src": "IMG_0900.jpg",
         "sizes": "522x512"
     }],
-    "start_url": "./",
+    "start_url": "./index.html",
     "display": "standalone",
     "gcm_sender_id": "979553270878"
 }
